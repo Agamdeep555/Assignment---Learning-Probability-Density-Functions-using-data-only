@@ -95,8 +95,7 @@ The probability density function \( p_h(z) \) is estimated using:
 The learned PDF obtained from GAN samples is shown below:
 
 <p align="center">
-  <img src="<img width="2100" height="1407" alt="plot" src="https://github.com/user-attachments/assets/5683a5a8-113a-4f2d-906f-74174d11f6bd" />
-" width="600">
+<img width="912" height="610" alt="Screenshot 2026-03-02 131657" src="https://github.com/user-attachments/assets/0d22272c-8639-4d51-a46c-1e21704396bd" />
 </p>
 
 ---
